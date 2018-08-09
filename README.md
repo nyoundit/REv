@@ -1,2 +1,2 @@
 # REv
-changing letters to different a ASCII number from user input
+changing letters to a different ASCII number from user input
